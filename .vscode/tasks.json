@@ -1,0 +1,35 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "C/C++: g++.exe build active file",
+            "command": "C:\\MinGW\\bin\\g++.exe",
+            "args": [
+                "-g",
+                "-std=c++11",
+                "-lopengl32",
+                "-Lglfw3dll",
+                "-Lassimpdll",
+                "--include-directory=C:/gl/include/",
+                "--include-directory=C:/gl/lib/x64/",
+                //"-LC:\\GL\\lib",
+                "Source.cpp",
+                "${workspaceFolder}/glad.c",
+                "${workspaceFolder}/stb_image.cpp",
+                "-o",
+                "${workspaceFolder}/myprogram.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

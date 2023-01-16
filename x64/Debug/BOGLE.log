@@ -1,0 +1,54 @@
+﻿  Source.cpp
+c:\gl\include\bogle\Shader.h(44,40): warning C4101: 'e': variable local sin referencia
+c:\gl\include\bogle\Rendereable.h(280,68): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+c:\gl\include\engine\mesh.h(107,1): warning C4267: 'argumento': conversión de 'size_t' a 'GLsizei'; posible pérdida de datos
+c:\gl\include\bogle\Model.h(291,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(292,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(299,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(300,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(307,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(308,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(315,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(316,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(324,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(325,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(336,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(337,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(347,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(348,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(358,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\Model.h(359,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(166,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(167,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(171,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(172,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(174,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(175,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(243,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(253,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(254,21): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(258,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(259,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(261,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(262,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(318,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(319,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(326,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(327,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(334,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(335,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(342,51): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(343,55): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(351,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(352,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(363,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(364,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(374,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(375,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(385,50): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\BOGLE\BOGLE\SuperMarket.h(386,54): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+c:\gl\include\bogle\OGL.h(126,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+c:\gl\include\bogle\OGL.h(151,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\gl\include\bogle\OGL.h(151,32): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\gl\include\bogle\OGL.h(99): warning C4715: 'OGL::initWindow': no todas las rutas de acceso de control devuelven un valor
+  BOGLE.vcxproj -> C:\Users\jossr\source\repos\BOGLE\x64\Debug\BOGLE.exe
